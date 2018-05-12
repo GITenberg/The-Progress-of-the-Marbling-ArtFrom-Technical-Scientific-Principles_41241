@@ -1,0 +1,37 @@
+_repo: The-Progress-of-the-Marbling-ArtFrom-Technical-Scientific-Principles_41241
+_version: 0.1.0
+alternative_title: Die Fortschritte der Marmorierkunst. English
+contributor:
+  translator:
+    agent_name: Dieck, Herman
+    gutenberg_agent_id: '41064'
+    url: http://www.gutenberg.org/2009/agents/41064
+covers:
+- cover_type: archival
+  image_path: 41241-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Halfer, Josef
+    aliases:
+    - Helfer, Joseph
+    - Halfer, Jozsef
+    - Halfer, József
+    deathdate: 1916
+    gutenberg_agent_id: '41063'
+    url: http://www.gutenberg.org/2009/agents/41063
+description: ''
+gutenberg_issued: '2012-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41241'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Marbled papers'
+- !lcc 'Z'
+- !lcsh 'Marbling (Bookbinding)'
+title: "The Progress of the Marbling Art, from Technical Scientific Principles\r\n\
+  With a Supplement on the Decoration of Book Edges"
+url: http://www.gutenberg.org/ebooks/41241
