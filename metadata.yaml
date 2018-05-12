@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '41063'
     url: http://www.gutenberg.org/2009/agents/41063
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41241#The-Progress-of-the-Marbling-ArtFrom-Technical-Scientific-Principles
 gutenberg_issued: '2012-10-30'
 gutenberg_type: Text
 identifiers:
